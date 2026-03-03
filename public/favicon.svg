@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#1a1a1a"/>
+  <!-- P letterform -->
+  <path d="M14 52V12h12c8 0 13 4 13 11s-5 11-13 11h-4v18z M22 18v10h4c4 0 6-2 6-5s-2-5-6-5z" fill="#e60000"/>
+  <!-- A letterform -->
+  <path d="M36 52l12-40h6l-12 40h-6z M33 38h18v6H33z" fill="#e60000"/>
+  <!-- Gear accent - 3 teeth at top -->
+  <rect x="26" y="6" width="4" height="5" rx="1" fill="#e60000"/>
+  <rect x="32" y="4" width="4" height="5" rx="1" fill="#e60000"/>
+  <rect x="38" y="6" width="4" height="5" rx="1" fill="#e60000"/>
+</svg>
