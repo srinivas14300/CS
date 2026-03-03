@@ -6,7 +6,7 @@ import {
     User,
     Settings,
     DollarSign,
-    Camera,
+
     ShieldCheck,
     MessageSquare,
     CheckCircle2,

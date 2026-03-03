@@ -135,7 +135,7 @@ export default function CarDetailsPage() {
                             </div>
                         </div>
                         <div className="grid grid-cols-5 gap-3">
-                            {car.images.slice(0, 5).map((img, idx) => (
+                            {car.images.slice(0, 5).map((_, idx) => (
                                 <button
                                     key={idx}
                                     onClick={() => setActiveImage(idx)}
